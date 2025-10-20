@@ -33,7 +33,11 @@ int main() {
     printf("Talla: %d cm\n", talla);
 
     
-ind_masa_corporal(peso, talla);
+    ind_masa_corporal(peso, talla);
+
+
+    system("pause");
+    return 0;
 
 
 }
